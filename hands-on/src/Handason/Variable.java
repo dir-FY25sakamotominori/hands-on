@@ -8,6 +8,8 @@ public class Variable {
         number1 = 2;
         System.out.println(number1);
         
+        
+        
     }
 
 }
